@@ -1,8 +1,6 @@
-THEME: srec - Free Bootstrap Theme
-AUTHOR: boot.com
-AUTHOR URI: http://www.srec.ac.in/
-Twitter: https://twitter.com/boot
-Facebook: https://facebook.com/boot
+AUTHOR: Dhiyaneshwaran
+Twitter: https://twitter.com/dhiyanu2901
+
 
 
 CREDITS:
